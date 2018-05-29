@@ -14,6 +14,8 @@ supplementary material of 'A CNN-based super-resolution method for compressed hi
 
 ## Video parameter
 
+The taining of video network is initialized by corresponding image network.
+
 |Network type|Quantization Parameter|Learning rate|epoch|
 |-|-|-|-|
 |Enhancement|QP34|0.001|30|
