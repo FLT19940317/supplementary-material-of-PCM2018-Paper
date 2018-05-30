@@ -1,5 +1,5 @@
 # supplementary-material-of-PCM2018-Paper
-supplementary material of 'A CNN-based super-resolution method for compressed high definition video'
+supplementary material of 'A Dual-Network based Super-Resolution for Compressed High Definition Video'
 
 ## Image parameter
 
